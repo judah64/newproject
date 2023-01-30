@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 this is a new added line
 and we will use this to demo merge conflict
 so this is going to be fun
+this is done from repo B
+there will be a merge conflict
+i will use mergetool to resolve it
+>>>>>>> 3776d9e (changes from repo B)
